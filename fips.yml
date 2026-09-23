@@ -1,0 +1,7 @@
+---
+imports:
+    fips-freetype:
+        git: https://github.com/kochol/fips-freetype.git
+exports:
+    modules:
+        harfbuzz: fips-files/harfbuzz
